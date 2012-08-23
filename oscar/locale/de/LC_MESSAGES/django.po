@@ -558,7 +558,7 @@ msgstr "Benutzer ID"
 #: templates/dashboard/reports/partials/user_report.html:8
 #: templates/dashboard/users/index.html:46
 msgid "Email"
-msgstr "Emailadresse"
+msgstr "E-Mail-Adresse"
 
 #: apps/basket/reports.py:22
 #: apps/basket/reports.py:80
@@ -1268,7 +1268,7 @@ msgstr "Sie müssen erst Produkte zu Ihrem Warenkorb hinzufügen bevor Sie zur K
 
 #: apps/checkout/forms.py:23
 msgid "My email address is"
-msgstr "Meine Emailadresse ist"
+msgstr "Meine E-Mail-Adresse ist"
 
 #: apps/checkout/forms.py:25
 msgid "No, I am a new customer"
@@ -1287,7 +1287,7 @@ msgstr "Sie müssen Artikel zu Ihrem Einkaufswagen hinzufügen um zur Kasse gehe
 
 #: apps/checkout/views.py:186
 msgid "Please either sign in or enter your email address"
-msgstr "Bitte loggen Sie sich ein oder geben Sie Ihre Emailadresse ein"
+msgstr "Bitte loggen Sie sich ein oder geben Sie Ihre E-Mail-Adresse ein"
 
 #: apps/checkout/views.py:192
 msgid "Your basket does not require a shipping address to be submitted"
@@ -1346,12 +1346,12 @@ msgstr "Betreff"
 #: templates/dashboard/orders/order_detail.html:94
 #: templates/dashboard/orders/order_detail.html:413
 msgid "Emails"
-msgstr "Emails"
+msgstr "E-Mails"
 
 #: apps/customer/abstract_models.py:27
 #, python-format
 msgid "Email to %(user)s with subject '%(subject)s'"
-msgstr "Email an %(user)s mit Betreff '%(subject)s'"
+msgstr "E-Mail an %(user)s mit Betreff '%(subject)s'"
 
 #: apps/customer/abstract_models.py:41
 msgid "Order related"
@@ -1363,15 +1363,15 @@ msgstr ""
 
 #: apps/customer/abstract_models.py:46
 msgid "Email Subject Template"
-msgstr "Vorlage Emailbetreff"
+msgstr "Vorlage E-Mailbetreff"
 
 #: apps/customer/abstract_models.py:47
 msgid "Email Body Template"
-msgstr "Vorlage Emailtext"
+msgstr "Vorlage E-Mailtext"
 
 #: apps/customer/abstract_models.py:48
 msgid "Email Body HTML Temlate"
-msgstr "Vorlage Emailtext in HTML"
+msgstr "Vorlage E-Mailtext in HTML"
 
 #: apps/customer/abstract_models.py:49
 msgid "HTML template"
@@ -1396,7 +1396,7 @@ msgstr ""
 #: apps/customer/forms.py:31
 #: apps/customer/forms.py:67
 msgid "Email Address"
-msgstr "Emailadresse"
+msgstr "E-Mail-Adresse"
 
 #: apps/customer/forms.py:49
 msgid "Please choose a less common password"
@@ -1412,7 +1412,7 @@ msgstr "Passwort bestätigen"
 
 #: apps/customer/forms.py:83
 msgid "A user with that email address already exists."
-msgstr "Ein Benutzer mit dieser Emailadresse existiert bereits"
+msgstr "Ein Benutzer mit dieser E-Mail-Adresse existiert bereits"
 
 #: apps/customer/forms.py:90
 msgid "The two password fields didn't match."
@@ -1426,7 +1426,7 @@ msgstr "Mindestens ein Datum ist erforderlich."
 #: templates/customer/profile.html:49
 #: templates/dashboard/orders/order_detail.html:45
 msgid "Email address"
-msgstr "Emailadresse"
+msgstr "E-Mail-Adresse"
 
 #: apps/customer/profile.py:14
 msgid "Can't import profile model"
@@ -1746,7 +1746,7 @@ msgstr "Bestellstatus"
 
 #: apps/dashboard/orders/views.py:227
 msgid "Customer email address"
-msgstr "Emailadresse des Kunden"
+msgstr "E-Mail-Adresse des Kunden"
 
 #: apps/dashboard/orders/views.py:228
 msgid "Deliver to name"
@@ -5807,11 +5807,11 @@ msgstr "Passwort zurückgesetzt"
 
 #: templates/registration/password_reset_form.html:15
 msgid "Forgotten your password? Enter your e-mail address below, and we'll e-mail instructions for setting a new one."
-msgstr "Passwort vergessen? Geben Sie Ihre Emailadresse unten ein und wir senden Ihnen Anweisungen ein Neues zu erstellen per Email."
+msgstr "Passwort vergessen? Geben Sie Ihre E-Mail-Adresse unten ein und wir senden Ihnen Anweisungen ein Neues zu erstellen per E-Mail."
 
 #: templates/registration/password_reset_form.html:18
 msgid "E-mail address:"
-msgstr "Emailadresse:"
+msgstr "E-Mail-Adresse:"
 
 #: templates/registration/password_reset_form.html:30
 msgid "Reset my password"
